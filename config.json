@@ -1,0 +1,28 @@
+{
+  "companies": [
+    "gitlab",
+    "netlify",
+    "figma",
+    "doordash",
+    "coinbase",
+    "notion",
+    "mongodb",
+    "grammarly"
+  ],
+  "job_keywords": ["engineer", "devops", "sre", "infrastructure", "platform", "cloud", "backend"],
+  "platforms": ["lever", "greenhouse"],
+  "resume_path": "resume.pdf",
+  "your_info": {
+    "first_name": "Olalekan",
+    "last_name": "Okunleye",
+    "email": "okunleyenakky@gmail.com",
+    "phone": " +1 5714710937",
+    "linkedin": "https://www.linkedin.com/in/olalekan-okunleye",
+    "location (city)": "landover",
+    "state": "Maryland",
+    "country": "United States",
+    "zip_code": "20785"
+  },
+  "max_applications": 10
+}
+

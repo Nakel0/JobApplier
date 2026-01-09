@@ -1,0 +1,15 @@
+{
+  "greenhouse": {
+    "gitlab": "https://boards.greenhouse.io/gitlab",
+    "doordash": "https://boards.greenhouse.io/doordash",
+    "snap": "https://boards.greenhouse.io/snap",
+    "robinhood": "https://boards.greenhouse.io/robinhood",
+    "coinbase": "https://boards.greenhouse.io/coinbase",
+    "notion": "https://boards.greenhouse.io/notion",
+    "grammarly": "https://boards.greenhouse.io/grammarly",
+    "plaid": "https://boards.greenhouse.io/plaid",
+    "amplitude": "https://boards.greenhouse.io/amplitude",
+    "attentive": "https://boards.greenhouse.io/attentive"
+  }
+}
+
